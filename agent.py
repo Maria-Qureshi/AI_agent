@@ -218,7 +218,7 @@ st.markdown("""
   }
 
   /* ── Hide default Streamlit chrome ── */
-  #MainMenu, footer, header { visibility: hidden; }
+  /*#MainMenu, footer, header { visibility: hidden; }*/
 
   /* ── Main container ── */
   .block-container {
